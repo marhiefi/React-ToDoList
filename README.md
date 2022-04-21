@@ -3,7 +3,7 @@
 A quick sample React project building components.
 
 
-The teaxt below refers to the Create React App introduction to React:
+### The text below refers to the Create React App introduction to React:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
