@@ -1,6 +1,9 @@
-# To Do List in React.js
+# To Do List in React.js (in progress)
 
 A quick sample React project building components.
+
+
+
 
 
 ### The text below refers to the Create React App introduction to React:
